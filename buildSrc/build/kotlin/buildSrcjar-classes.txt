@@ -1,1 +1,0 @@
-C:\Users\Eric\AndroidStudioProjects\lolgg\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\Eric\AndroidStudioProjects\lolgg\buildSrc\build\classes\kotlin\main\Version.class
