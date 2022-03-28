@@ -7,4 +7,6 @@ object Libs {
     const val lifeCycleViewModel = "androidx.lifecycle:lifecycle-viewmodel-ktx:${Version.lifecycle}"
     const val navgationFragment = "androidx.navigation:navigation-fragment-ktx:${Version.navgation}"
     const val navigationUi = "androidx.navigation:navigation-ui-ktx:${Version.navgation}"
+    const val retrofit2Moshi = "com.squareup.retrofit2:converter-moshi:${Version.retrofitVersion}"
+    const val coroutinesCore = "org.jetbrains.kotlinx:kotlinx-coroutines-core:${Version.coroutinesVersion}"
 }
